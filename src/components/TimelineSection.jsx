@@ -10,7 +10,7 @@ const MEMORIES = [
     story: "Just look at this tiny little kid 😭 So innocent… so harmless….Honestly, if someone showed me this picture first, I would've thought: 'aww such a sweet child 🥺' — meanwhile NOW look at you 💀 Same face, upgraded with sarcasm, mood swings, and unnecessary confidence. But okay fine… still cute though. 😌💖",
     color: '#ff6b9d',
     polaroidBg: '#fff5f8',
-    image: 'memory1.jpeg',
+    image: '/memory1.jpeg',
   },
   {
   emoji: '☕',
@@ -20,7 +20,7 @@ const MEMORIES = [
   story: "Look at us standing there like two innocent little kids 💀 .You already had that suspicious face like you were about to say, ‘don’t tell anyone okay?’ 😭 Honestly, this picture explains everything — same energy, same nonsense, just taller now...some things really never changed. 🤝✨",
   color: '#c77dff',
   polaroidBg: '#fdf5ff',
-  image: 'memory2.jpeg',
+  image: '/memory2.jpeg',
   },
   {
   emoji: '🌙',
@@ -30,7 +30,7 @@ const MEMORIES = [
   story: "Now THIS picture explains everything 💀 Look at that face — already giving full troublemaker energy  😭 Literally see the mischief loading behind that smile. Honestly, younger you probably annoyed everyone around you 24/7… but okay, I’ll admit one thing — at least now you finally learned how to behave with people (sometimes). Character development happened eventually, proud of you for that 👏✨",
   color: '#72efdd',
   polaroidBg: '#f0fffe',
-  image: 'memory3.jpeg',
+  image: '/memory3.jpeg',
   },
   {
   emoji: '🎭',
@@ -40,7 +40,7 @@ const MEMORIES = [
   story: "This picture? Yeah… this one always hits differently. 😭 I was so stupidly happy around you back then, and honestly maybe a little too in love too 💀 But leave it, you never really looked at me that way and somehow I still stayed. Funny thing is — even after all that, I can’t look at this photo without smiling. And no matter what happened later, these memories? They were genuinely beautiful to me. 🤍✨",
   color: '#ffd60a',
   polaroidBg: '#fffdf0',
-  image: 'memory4.jpeg',
+  image: '/memory4.jpeg',
   },
   {
   emoji: '🌸',
@@ -50,7 +50,7 @@ const MEMORIES = [
   story: "Everything about it just felt so good — the fun, the chaos, the random laughs, all of it. And yeah… sometimes I still regret that we didn’t really get enough time together there. But still, whenever I look at this picture, all I remember is how happy I was with you. No overthinking, no drama… just us enjoying the moment. 🤍✨",
   color: '#a78bfa',
   polaroidBg: '#f5f0ff',
-  image: 'memory5.jpeg',
+  image: '/memory5.jpeg',
   }
 ];
 
